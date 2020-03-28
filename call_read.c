@@ -1,6 +1,5 @@
 #include <stdlib.h>
-
-extern int get_value();
+#include "data.h"
 
 int main(int argc, char* argv[])
 {
